@@ -1,0 +1,1 @@
+Linha unica com quebra de linha no fim
